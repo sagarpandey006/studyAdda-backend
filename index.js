@@ -56,7 +56,8 @@ app.use(
       "http://localhost:3001",
       "http://localhost:3002",
       "https://studyadda.me",
-      "https://www.studyadda.me"
+      "https://www.studyadda.me",
+      "https://studyaddaa.netlify.app",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
